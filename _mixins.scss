@@ -1,0 +1,16 @@
+@mixin mostra-icone($url) {
+    @extend %tamanho-display-imagens-aside;
+    background-image: url($url);
+}
+
+@mixin cria-barra($cor, $tamanho) {
+    height: $tamanho;
+    width: 50px;
+    background-color: $cor;
+    border-radius: 18px;
+    transition: height 0.5s ease-in-out;
+
+    &:hover {
+        height: 150px;
+    }
+}
