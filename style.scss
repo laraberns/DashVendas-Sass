@@ -333,10 +333,6 @@ section {
 
 @media (max-width: 530px) {
 
-    .numeros{
-        gap: 20px;
-    }
-
     section{
         margin: 20px;
     }
@@ -347,7 +343,18 @@ section {
         }
     }
 
+    .numeros{
+        width: 100%;
+        gap: 20px;
+    }
+
     .tabela{
         margin-bottom: 40px;
+        
+        table{
+            width: 100%;
+        }
     }
+
+
 }
