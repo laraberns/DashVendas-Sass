@@ -333,7 +333,7 @@ section {
 
 @media (max-width: 530px) {
 
-    section{
+    section {
         margin: 20px;
     }
 
@@ -343,18 +343,28 @@ section {
         }
     }
 
-    .numeros{
-        width: 100%;
+    .numeros {
         gap: 20px;
+
+        .informacoes,
+        .grafico {
+            width: 80vw;
+            margin: 0 auto;
+        }
     }
 
-    .tabela{
+    .tabela {
         margin-bottom: 40px;
-        
-        table{
+
+        table {
             width: 100%;
         }
     }
 
+    .imagem-dashboard,
+    .imagem-lista {
+        margin: 0 auto;
+        display: block;
+    }
 
 }

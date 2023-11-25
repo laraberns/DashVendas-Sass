@@ -297,14 +297,23 @@ section {
     display: none;
   }
   .numeros {
-    width: 100%;
     gap: 20px;
+  }
+  .numeros .informacoes,
+  .numeros .grafico {
+    width: 80vw;
+    margin: 0 auto;
   }
   .tabela {
     margin-bottom: 40px;
   }
   .tabela table {
     width: 100%;
+  }
+  .imagem-dashboard,
+  .imagem-lista {
+    margin: 0 auto;
+    display: block;
   }
 }
 
