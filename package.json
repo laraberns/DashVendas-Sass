@@ -1,5 +1,15 @@
 {
   "dependencies": {
+    "animate.css": "^4.1.1",
     "sass": "^1.69.5"
-  }
+  },
+  "name": "dashvendas",
+  "description": "This project, named **DashVendas**, was developed as part of the CSS module in the FIAP Post-Tech program. The main goal was to apply the knowledge gained in styling using Sass/Scss to create an attractive and responsive design.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }

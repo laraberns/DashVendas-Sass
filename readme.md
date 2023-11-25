@@ -1,6 +1,6 @@
 # DashVendas - Sass/Scss Styling Project
 
-This project, named **DashVendas**, was developed as part of the CSS module in the FIAP Post-Tech program. The main goal was to apply the knowledge gained in styling using Sass/Scss to create an attractive and responsive design.
+This project, named **DashVendas**, was developed as part of the CSS module in the FIAP Post-Tech program. The main goal was to apply the knowledge gained in styling using Sass/Scss and the Animate.css library to create an attractive and responsive design.
 
 ## Project Structure
 
@@ -22,6 +22,6 @@ The **main area** includes a header with tool icons, a table section to list ord
 
 - **General Information and Monthly Sales Graph**: A section displaying general statistics about total sales. It presents a simple graph of monthly sales with bars representing the values.
 
-## Styling with Sass/Scss
+## Styling with Sass/Scss and Animate.css
 
-The **style.scss** file utilizes advanced features of Sass/Scss, such as variables, mixins, and nesting, to make styling more efficient and readable. The choice of Google Fonts adds a modern touch to the design.
+The **style.scss** file utilizes advanced features of Sass/Scss, such as variables, mixins, and nesting, to make styling more efficient and readable. The choice of Google Fonts adds a modern touch to the design, while the Animate.css library brings dynamic animations to enhance the overall user experience.
