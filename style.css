@@ -244,6 +244,9 @@ section {
     display: flex;
     flex-direction: column;
   }
+  button {
+    margin-top: 17px;
+  }
   .numeros {
     display: grid;
     grid-template-columns: 1fr;
